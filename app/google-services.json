@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "160554331055",
+    "firebase_url": "https://crud-kotlin-bcf55.firebaseio.com",
+    "project_id": "crud-kotlin-bcf55",
+    "storage_bucket": "crud-kotlin-bcf55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160554331055:android:d2d1a11032706283309d5a",
+        "android_client_info": {
+          "package_name": "com.tutik.crud_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160554331055-h0scihtnfsfcdh7k9860fciq88imbbog.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoZTgEi58UWXdxurGDHwRunpMB7VDo0sA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160554331055-h0scihtnfsfcdh7k9860fciq88imbbog.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
