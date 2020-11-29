@@ -97,6 +97,7 @@ dari masing-masing Akun
                             }
                         })
             R.id.showdata -> {
+                startActivity(Intent(this@MainActivity, MyListData::class.java))
             }
         }
     }
